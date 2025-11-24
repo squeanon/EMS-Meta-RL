@@ -3,7 +3,7 @@
 
 Code for Meta-RL with Shared Representations Enables Fast Adaptation in Energy Systems.
 
-![](figs/meta-archi3.png)
+<img src="figs/meta-archi3.png" width="300">
 
 Original REPTILE update without an optimizer is: 
 
